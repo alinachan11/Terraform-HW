@@ -10,7 +10,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default     = "FirstKey"
+  default     = "SecondKey"
   description = "The key name of the Key Pair to use for the instance"
   type        = string
 }
