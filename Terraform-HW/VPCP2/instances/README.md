@@ -1,0 +1,1 @@
+creates all the instances of the db and nginx(web servers)
